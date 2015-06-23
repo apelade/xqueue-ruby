@@ -1,6 +1,6 @@
 require 'active_model'
 require 'json'
-require 'debugger'
+#require 'debugger'
 
 class XQueueSubmission
   include ActiveModel::Validations
